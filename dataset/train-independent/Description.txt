@@ -1,0 +1,4 @@
+##train and independent data sets :
+1. Human 
+  
+2. Rice Nip

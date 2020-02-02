@@ -1,0 +1,9 @@
+Human_modelpklfile=model/SIC_human_model_ind_-AGCT_110_9823_11_41.pkl
+Human_threshold_high=-0.86118
+Human_threshold_medum=-1.76532
+Human_threshold_low=-2.92709
+Rice_modelpklfile=model/SIC_Rice_Nip_model_ind_-AGCT_110_9902_11_41.pkl
+Rice_threshold_high=-0.64277
+Rice_threshold_medum=-2.26020
+Rice_threshold_low=-3.95734
+ 

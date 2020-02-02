@@ -1,0 +1,10 @@
+anaconda 5.3;
+python 3.7;
+pytorch 1.0;
+numpy;
+wx;
+sklearn;
+pylab;
+os;
+
+

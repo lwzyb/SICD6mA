@@ -14,9 +14,9 @@ SICDm6A is a deep-learning-based tool to predict 6mA sites across species.
 - pylab
 - sklearn
 
-** It is highly recommended to install based on anaconda （python 3.7） 
-** Please install cuda first if the predicted data is very large.
-** Please note: The folder name of the main program can only be English characters, otherwise it may not run.
+- ** It is highly recommended to install based on anaconda （python 3.7） 
+- ** Please install cuda first if the predicted data is very large.
+- ** Please note: The folder name of the main program can only be English characters, otherwise it may not run.
  
 
 1. App:
